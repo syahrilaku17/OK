@@ -59,7 +59,7 @@ $.extend( DataTable.ext.classes, {
 	sFilterInput:  "form-control form-control-sm",
 	sLengthSelect: "custom-select custom-select-sm form-control form-control-sm",
 	sProcessing:   "dataTables_processing card",
-	sPageButton:   "paginate_button page-item"
+	sPageButton:   "paginate_button core-item"
 } );
 
 
@@ -140,7 +140,7 @@ DataTable.ext.renderer.pageButton.bootstrap = function ( settings, host, idx, bu
 								'aria-label': aria[ button ],
 								'data-dt-idx': counter,
 								'tabindex': settings.iTabIndex,
-								'class': 'page-link'
+								'class': 'core-link'
 							} )
 							.html( btnDisplay )
 						)

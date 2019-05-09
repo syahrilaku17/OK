@@ -2,9 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\Jurusan;
 use Illuminate\Http\Request;
-use DataTables;
 
 class jurusanController extends Controller
 {
@@ -15,7 +13,7 @@ class jurusanController extends Controller
      */
     public function index()
     {
-       return view('admin.jurusan');
+        //
     }
 
     /**
@@ -83,21 +81,4 @@ class jurusanController extends Controller
     {
         //
     }
-    public function dataTable(){
-        $model = Jurusan::query();
-        return DataTables::of($model)
-            ->addColumn('action', function ($model){
-                return view('#', [
-                    'model' => $model,
-                    'url_show' => route('jurusan.show', $model->id),
-                    'url_edit' => route('jurusan.edit', $model->id),
-                    'url_destroy' => route('jurusan.destroy', $model->id)
-                ]);
-            })
-            ->addIndexColumn()
-            ->rawColumns(['action'])
-            ->make(true);
-    }
 }
-
-

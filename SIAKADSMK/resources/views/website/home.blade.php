@@ -1,4 +1,4 @@
-@extends('page.app');
+@extends('website.core.app');
 @section('content');
 <!-- ##### Hero Area Start ##### -->
 <section class="hero-area">

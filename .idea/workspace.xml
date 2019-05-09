@@ -2,10 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f6191b9-204a-4d0b-80ed-1834b4142272" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SIAKADSMK/resources/views/admin/jurusan.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SIAKADSMK/app/Http/Controllers/jurusanController.php" beforeDir="false" afterPath="$PROJECT_DIR$/SIAKADSMK/app/Http/Controllers/jurusanController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SIAKADSMK/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/SIAKADSMK/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SIAKADSMK/public/assets/vendor/datatables/DataTables-1.10.18/js/dataTables.bootstrap4.js" beforeDir="false" afterPath="$PROJECT_DIR$/SIAKADSMK/public/assets/vendor/datatables/DataTables-1.10.18/js/dataTables.bootstrap4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SIAKADSMK/public/assets/vendor/datatables/DataTables-1.10.18/js/dataTables.bootstrap4.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/SIAKADSMK/public/assets/vendor/datatables/DataTables-1.10.18/js/dataTables.bootstrap4.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SIAKADSMK/public/assets/vendor/datatables/DataTables-1.10.18/js/jquery.dataTables.js" beforeDir="false" afterPath="$PROJECT_DIR$/SIAKADSMK/public/assets/vendor/datatables/DataTables-1.10.18/js/jquery.dataTables.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SIAKADSMK/public/assets/vendor/datatables/DataTables-1.10.18/js/jquery.dataTables.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/SIAKADSMK/public/assets/vendor/datatables/DataTables-1.10.18/js/jquery.dataTables.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SIAKADSMK/public/assets/vendor/datatables/Responsive-2.2.2/js/dataTables.responsive.js" beforeDir="false" afterPath="$PROJECT_DIR$/SIAKADSMK/public/assets/vendor/datatables/Responsive-2.2.2/js/dataTables.responsive.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SIAKADSMK/public/assets/vendor/datatables/datatables.js" beforeDir="false" afterPath="$PROJECT_DIR$/SIAKADSMK/public/assets/vendor/datatables/datatables.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SIAKADSMK/public/assets/vendor/datatables/datatables.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/SIAKADSMK/public/assets/vendor/datatables/datatables.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SIAKADSMK/public/js/admin/lib/data-table/dataTables.bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/SIAKADSMK/public/js/admin/lib/data-table/dataTables.bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SIAKADSMK/public/js/admin/lib/data-table/dataTables.buttons.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/SIAKADSMK/public/js/admin/lib/data-table/dataTables.buttons.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SIAKADSMK/public/js/admin/lib/data-table/datatables.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/SIAKADSMK/public/js/admin/lib/data-table/datatables.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SIAKADSMK/public/js/admin/lib/data-table/jquery-1.12.4.js" beforeDir="false" afterPath="$PROJECT_DIR$/SIAKADSMK/public/js/admin/lib/data-table/jquery-1.12.4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SIAKADSMK/public/js/admin/lib/data-table/jquery.dataTables.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/SIAKADSMK/public/js/admin/lib/data-table/jquery.dataTables.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SIAKADSMK/public/js/admin/lib/gmap/gmapApi.js" beforeDir="false" afterPath="$PROJECT_DIR$/SIAKADSMK/public/js/admin/lib/gmap/gmapApi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SIAKADSMK/public/js/plugins/plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/SIAKADSMK/public/js/plugins/plugins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SIAKADSMK/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/SIAKADSMK/resources/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SIAKADSMK/resources/views/admin/admin.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/SIAKADSMK/resources/views/admin/admin.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SIAKADSMK/resources/views/admin/layout_admin/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/SIAKADSMK/resources/views/admin/layout_admin/header.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SIAKADSMK/resources/views/page/app_admin.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/SIAKADSMK/resources/views/page/app_admin.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SIAKADSMK/resources/views/admin/jurusan.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/SIAKADSMK/resources/views/admin/jurusan.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SIAKADSMK/resources/views/admin/layout_admin/nav_left.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/SIAKADSMK/resources/views/admin/layout_admin/nav_left.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SIAKADSMK/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/SIAKADSMK/resources/views/website/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SIAKADSMK/resources/views/layout/footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/SIAKADSMK/resources/views/website/layout/footer.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SIAKADSMK/resources/views/layout/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/SIAKADSMK/resources/views/website/layout/header.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SIAKADSMK/resources/views/page/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/SIAKADSMK/resources/views/website/core/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SIAKADSMK/resources/views/page/app_admin.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/SIAKADSMK/resources/views/admin/core/app_admin.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SIAKADSMK/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/SIAKADSMK/routes/web.php" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/SIAKADSMK/vendor/beyondcode/laravel-dump-server/" />
@@ -99,8 +121,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SIAKADSMK/resources/views/admin/admin.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-102">
-              <caret line="12" column="63" lean-forward="true" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
+            <state relative-caret-position="221">
+              <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
@@ -110,7 +132,18 @@
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#3;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#3;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="e#23712#23719#1#HTML" expanded="true" />
+                <element signature="e#24786#24793#1#HTML" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SIAKADSMK/resources/views/admin/jurusan.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -119,38 +152,34 @@
         <entry file="file://$PROJECT_DIR$/SIAKADSMK/resources/views/welcome.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SIAKADSMK/resources/views/admin/jurusan.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
-              <folding>
-                <element signature="n#style#0;n#a#0;n#h3#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
-              </folding>
+              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SIAKADSMK/resources/views/home.blade.php">
+        <entry file="file://$PROJECT_DIR$/SIAKADSMK/resources/views/website/home.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1326">
-              <caret line="46" column="52" lean-forward="true" selection-start-line="46" selection-start-column="52" selection-end-line="46" selection-end-column="52" />
+            <state>
+              <caret column="8" selection-start-column="1" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SIAKADSMK/resources/views/admin/layout_admin/header.blade.php">
+        <entry file="file://$PROJECT_DIR$/SIAKADSMK/resources/views/admin/layout_admin/nav_left.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1462">
-              <caret line="86" column="82" lean-forward="true" selection-start-line="86" selection-start-column="82" selection-end-line="86" selection-end-column="82" />
+            <state relative-caret-position="251">
+              <caret line="67" column="51" selection-start-line="67" selection-start-column="51" selection-end-line="67" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SIAKADSMK/app/Jurusan.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -158,11 +187,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SIAKADSMK/app/Http/Controllers/jurusanController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
-              <folding>
-                <element signature="e#40#56#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="-497">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
@@ -170,8 +196,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SIAKADSMK/routes/web.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="83" lean-forward="true" selection-start-line="23" selection-start-column="83" selection-end-line="23" selection-end-column="83" />
+            <state relative-caret-position="323">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="e#7#389#0#PHP" expanded="true" />
               </folding>
@@ -180,13 +206,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SIAKADSMK/resources/views/page/app_admin.blade.php">
+        <entry file="file://$PROJECT_DIR$/SIAKADSMK/resources/views/admin/core/app_admin.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="107" selection-start-line="107" selection-end-line="107" />
+            <state relative-caret-position="170">
+              <caret line="74" column="45" lean-forward="true" selection-start-line="74" selection-start-column="45" selection-end-line="74" selection-end-column="45" />
               <folding>
                 <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SIAKADSMK/resources/views/website/core/app.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="36" column="10" lean-forward="true" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -239,13 +274,16 @@
         <option value="$PROJECT_DIR$/SIAKADSMK/resources/views/layout_admin/nav_left.blade.php" />
         <option value="$PROJECT_DIR$/SIAKADSMK/resources/views/layout_admin/header.blade.php" />
         <option value="$PROJECT_DIR$/SIAKADSMK/resources/views/layout_admin/footer.blade.php" />
-        <option value="$PROJECT_DIR$/SIAKADSMK/resources/views/admin/admin.blade.php" />
         <option value="$PROJECT_DIR$/SIAKADSMK/database/migrations/2019_05_09_023240_create_jurusan_table.php" />
         <option value="$PROJECT_DIR$/SIAKADSMK/resources/views/admin/layout_admin/header.blade.php" />
-        <option value="$PROJECT_DIR$/SIAKADSMK/resources/views/page/app_admin.blade.php" />
-        <option value="$PROJECT_DIR$/SIAKADSMK/routes/web.php" />
-        <option value="$PROJECT_DIR$/SIAKADSMK/resources/views/admin/jurusan.blade.php" />
         <option value="$PROJECT_DIR$/SIAKADSMK/app/Http/Controllers/jurusanController.php" />
+        <option value="$PROJECT_DIR$/SIAKADSMK/resources/views/page/app_admin.blade.php" />
+        <option value="$PROJECT_DIR$/SIAKADSMK/resources/views/admin/layout_admin/nav_left.blade.php" />
+        <option value="$PROJECT_DIR$/SIAKADSMK/routes/web.php" />
+        <option value="$PROJECT_DIR$/SIAKADSMK/resources/views/website/home.blade.php" />
+        <option value="$PROJECT_DIR$/SIAKADSMK/resources/views/website/core/app.blade.php" />
+        <option value="$PROJECT_DIR$/SIAKADSMK/resources/views/admin/jurusan.blade.php" />
+        <option value="$PROJECT_DIR$/SIAKADSMK/resources/views/admin/admin.blade.php" />
       </list>
     </option>
   </component>
@@ -411,7 +449,7 @@
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
               <item name="admin" type="462c0819:PsiDirectoryNode" />
-              <item name="layout_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SIAKADSMK" type="b2602c69:ProjectViewProjectNode" />
@@ -419,7 +457,7 @@
               <item name="SIAKADSMK" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="layout" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SIAKADSMK" type="b2602c69:ProjectViewProjectNode" />
@@ -427,7 +465,8 @@
               <item name="SIAKADSMK" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SIAKADSMK" type="b2602c69:ProjectViewProjectNode" />
@@ -451,6 +490,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\trainer\PhpstormProjects\SIAKADSMK\SIAKADSMK\resources\views\website" />
+      <recent name="C:\Users\trainer\PhpstormProjects\SIAKADSMK\SIAKADSMK\resources\views\admin\core" />
       <recent name="C:\Users\trainer\PhpstormProjects\SIAKADSMK\SIAKADSMK\resources\views\admin" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -488,7 +529,7 @@
       <workItem from="1557045065286" duration="1473000" />
       <workItem from="1557196272651" duration="2768000" />
       <workItem from="1557306824445" duration="480000" />
-      <workItem from="1557367811022" duration="17174000" />
+      <workItem from="1557367811022" duration="20776000" />
     </task>
     <task id="LOCAL-00001" summary="Admin Page:">
       <created>1557045708673</created>
@@ -522,12 +563,33 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38920000" />
+    <option name="totallyTimeSpent" value="42522000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2677761" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329582" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.329582" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2677761" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -547,7 +609,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -714,7 +776,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SIAKADSMK/resources/views/layout/header.blade.php">
+    <entry file="file://$PROJECT_DIR$/SIAKADSMK/resources/views/website/layout/header.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
@@ -728,24 +790,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SIAKADSMK/resources/views/page/app.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-527">
-          <caret line="11" column="69" lean-forward="true" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SIAKADSMK/resources/views/layout/footer.blade.php">
+    <entry file="file://$PROJECT_DIR$/SIAKADSMK/resources/views/website/layout/footer.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="33" column="32" lean-forward="true" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SIAKADSMK/resources/views/admin/layout_admin/nav_left.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-68">
-          <caret line="43" column="64" lean-forward="true" selection-start-line="43" selection-start-column="64" selection-end-line="43" selection-end-column="64" />
         </state>
       </provider>
     </entry>
@@ -794,34 +842,93 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SIAKADSMK/app/Jurusan.php">
+    <entry file="file://$PROJECT_DIR$/SIAKADSMK/.env">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        <state relative-caret-position="153">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SIAKADSMK/.env">
+    <entry file="file://$PROJECT_DIR$/SIAKADSMK/public/assets/vendor/datatables/DataTables-1.10.18/js/jquery.dataTables.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="15121" column="4" selection-start-line="15121" selection-start-column="4" selection-end-line="15121" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIAKADSMK/public/assets/vendor/datatables/datatables.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="15133" column="4" selection-start-line="15133" selection-start-column="4" selection-end-line="15133" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIAKADSMK/resources/views/admin/layout_admin/header.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="65" column="8" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIAKADSMK/app/Jurusan.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIAKADSMK/app/Http/Controllers/jurusanController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-497">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIAKADSMK/resources/views/admin/layout_admin/nav_left.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="67" column="51" selection-start-line="67" selection-start-column="51" selection-end-line="67" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIAKADSMK/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SIAKADSMK/routes/web.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="83" lean-forward="true" selection-start-line="23" selection-start-column="83" selection-end-line="23" selection-end-column="83" />
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="e#7#389#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SIAKADSMK/resources/views/admin/core/app_admin.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="74" column="45" lean-forward="true" selection-start-line="74" selection-start-column="45" selection-end-line="74" selection-end-column="45" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIAKADSMK/resources/views/admin/jurusan.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SIAKADSMK/resources/views/admin/admin.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-102">
-          <caret line="12" column="63" lean-forward="true" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
+        <state relative-caret-position="221">
+          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
@@ -831,59 +938,23 @@
             <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#3;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#3;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#23712#23719#1#HTML" expanded="true" />
+            <element signature="e#24786#24793#1#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SIAKADSMK/resources/views/welcome.blade.php">
+    <entry file="file://$PROJECT_DIR$/SIAKADSMK/resources/views/website/home.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        <state>
+          <caret column="8" selection-start-column="1" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SIAKADSMK/resources/views/page/app_admin.blade.php">
+    <entry file="file://$PROJECT_DIR$/SIAKADSMK/resources/views/website/core/app.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="107" selection-start-line="107" selection-end-line="107" />
-          <folding>
-            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SIAKADSMK/app/Http/Controllers/jurusanController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
-          <folding>
-            <element signature="e#40#56#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SIAKADSMK/resources/views/admin/layout_admin/header.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1462">
-          <caret line="86" column="82" lean-forward="true" selection-start-line="86" selection-start-column="82" selection-end-line="86" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SIAKADSMK/resources/views/home.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1326">
-          <caret line="46" column="52" lean-forward="true" selection-start-line="46" selection-start-column="52" selection-end-line="46" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SIAKADSMK/resources/views/admin/jurusan.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#h3#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="255">
+          <caret line="36" column="10" lean-forward="true" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
         </state>
       </provider>
     </entry>

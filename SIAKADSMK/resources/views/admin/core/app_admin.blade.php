@@ -78,7 +78,7 @@
     </div>
 
 
-<script src="{{ asset('assets/vendor/datatables/datatables.min.js') }}"></script>
+{{--<script src="{{ asset('assets/vendor/datatables/datatables.min.js') }}"></script>--}}
 <!-- Scripts -->
 <script src="https://cdn.jsdelivr.net/npm/jquery@2.2.4/dist/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.4/dist/umd/popper.min.js"></script>
@@ -105,7 +105,7 @@
 <script src="{{asset('js/admin/init/fullcalendar-init.js')}}"></script>
 <!--Local Stuff-->
 
-@stack('scripts')
+
 
 <script>
     jQuery(document).ready(function($) {
@@ -298,5 +298,6 @@
         // Bar Chart #flotBarChart End
     });
 </script>
+@stack('scripts')
 </body>
 </html>

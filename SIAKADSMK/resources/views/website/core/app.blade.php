@@ -36,11 +36,11 @@
         <i class="circle-preloader"></i>
     </div>
 
-    @include('layout.header')
+    @include('website.layout.header')
 
     @yield('content')
 
-    @include('layout.footer')
+    @include('website.layout.footer')
 
 <script src="{{ asset('js/jquery/jquery-2.2.4.min.js') }}"></script>
 
